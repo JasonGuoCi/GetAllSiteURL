@@ -17,6 +17,8 @@ namespace GetAllSiteURL
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new ExportUrl());
+
+            //log
         }
     }
 }
